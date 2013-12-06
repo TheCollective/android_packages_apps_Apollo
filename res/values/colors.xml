@@ -37,10 +37,10 @@
     <color name="action_bar_color">#ff0d0d0d</color>
 
     <!-- A light, Holo shade of blue -->
-    <color name="holo_blue_light">#ffff8e00</color>
+    <color name="holo_blue_light">#ffff3000</color>
 
     <!-- A light, transparent Holo shade of blue -->
-    <color name="holo_blue_light_transparent">#99ff8e00</color>
+    <color name="holo_blue_light_transparent">#99ff3000</color>
 
     <!-- A light Holo shade of green -->
     <color name="holo_green_light">#ff99cc00</color>
